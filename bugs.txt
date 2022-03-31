@@ -1,0 +1,32 @@
+Lineas:
+
+3-Lib Ctime
+32-falta corchete
+77- falta <
+112 -var ccn
+164 falta p3
+445 faltan comillas
+503 falta compmuerte
+524 else
+536 cout
+565 cout
+828 borrar ;
+811 uno_game
+774 t2
+712 falta {
+643 esta comentado for
+618 comentado void
+584 borrar float soy_bug
+499 borrar clase soy_otro_bug
+451 s==0
+341 la funcion es void
+349 else if y no elif
+264 borrar //
+248 borrar []
+177 es ci y no bug
+122 borrar un }
+17 falta declarar int
+817 es cin
+821 borrar soy_un_bug
+741 añadir [] a var a
+666 Es case 1:
